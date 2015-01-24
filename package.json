@@ -1,0 +1,33 @@
+{
+  "name": "mimosa-hogan-static",
+  "version": "0.1.0",
+  "homepage": "http://www.mimosa.io",
+  "author": "David Bashford",
+  "description": "A Mimosa module that can turn hogan templates into HTML during mimosa watch/build, great for static site generation.",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-hogan-static"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "hogan",
+    "site",
+    "generator",
+    "compile"
+  ],
+  "dependencies": {
+    "hogan.js": "3.0.2"
+  },
+  "main": "./src/index",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}

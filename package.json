@@ -1,6 +1,6 @@
 {
   "name": "mimosa-hogan-static",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://www.mimosa.io",
   "author": "David Bashford",
   "description": "A Mimosa module that can turn hogan templates into HTML during mimosa watch/build, great for static site generation.",

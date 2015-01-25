@@ -1,9 +1,9 @@
-mimosa-eslint
+mimosa-hogan-static
 ===========
 
 ## Overview
 
-This is a ESLint module for the Mimosa build tool. It will perform static code analysis on your JavaScript code.
+This module allows you to build `.html` pages using Hogan.
 
 For more information regarding Mimosa, see http://mimosa.io.
 For more information regarding Hogan, see http://twitter.github.io/hogan.js/.
